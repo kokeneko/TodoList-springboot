@@ -1,0 +1,1 @@
+INSERT INTO tasks (number, title, description) VALUES (1, '課題', 'プログラミング');
